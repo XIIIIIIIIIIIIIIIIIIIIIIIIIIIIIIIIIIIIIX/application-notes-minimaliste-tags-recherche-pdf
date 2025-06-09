@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', function() {\n  console.log('Page chargée !');\n});
